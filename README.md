@@ -8,46 +8,14 @@
   <!-- <a href="https://github.com/RuanMiniguite"><img src="assets\Pg.png" alt="Logo" width="110"></a> -->
   
   <h3>Automação com Python</h3>
-  <p>Automação com Python</p>
 </div>
-
-
-<!-- ===== SUMARIO ===== -->
-<!-- <details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#language-and-tools">Language and tools</a></li>
-    <li><a href="#installation">Installation</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#author">Author</a></li>
-  </ol>
-</details> -->
-
----
-
-
-
-<!-- ============== SHIELDS ============== -->
-<!-- <div align="center">
-
-  ![GitHub repo size][GitHub repo size-shields]
-  ![GitHub language count][GitHub language count-shields]
-  ![GitHub forks][GitHub forks-shields]
-  [![GitHub License][GitHub License-shields]][GitHub License-link]
-  [![Website][Website-shields]][Website-link]
-
-  <h4>🚧 Project under construction... 🚧</h4>
-</div> -->
 
 
 <!-- ============== ABOUT ============== -->
 ## About the project
 
-<!-- <div align="center">
-  <img src="assets\Img1.png" alt="Print" width=50% ><br><br>
-
-  <!-- [![Site][Site-shields]][Site-link] -->
+<div align="center">
+  Projeto de automação desenvolvido atraves da linguagem python, utilizando e selenium onde através do controle de um termina é possivel obter a cotação de diferentes moedas e atualizar os preços de uma tabela no excel, e realizar a exportação da tabela.
 </div> -->
 
 
