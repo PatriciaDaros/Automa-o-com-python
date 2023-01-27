@@ -10,7 +10,7 @@
 ## About the project
 
 <div>
-  Projeto de automação desenvolvido atraves da linguagem python, utilizando e selenium onde através do controle de um termina é possivel obter a cotação de diferentes moedas e atualizar os preços de uma tabela no excel, e realizar a exportação da tabela.
+  Projeto de automação desenvolvido através da linguagem python, utilizando e selenium onde através do controle de um navegador é possível obter a cotação de diferentes moedas e atualizar os preços de uma tabela no excel, e realizar a exportação da tabela.
 </div>
 
 
