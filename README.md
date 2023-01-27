@@ -1,20 +1,15 @@
-<!--  
-    Ruan Pezzin Miniguite
-    V. 2.2 
--->
-
 <!-- ============== HEADER ============== -->
-<div align="center" id="header">
-  <!-- <a href="https://github.com/RuanMiniguite"><img src="assets\Pg.png" alt="Logo" width="110"></a> -->
-  
-  <h3>Automação com Python</h3>
+<div align="center" id="header">  
+    
+  <h1>Automação com Python</h1>
+
 </div>
 
 
 <!-- ============== ABOUT ============== -->
 ## About the project
 
-<div align="center">
+<div>
   Projeto de automação desenvolvido atraves da linguagem python, utilizando e selenium onde através do controle de um termina é possivel obter a cotação de diferentes moedas e atualizar os preços de uma tabela no excel, e realizar a exportação da tabela.
 </div>
 
